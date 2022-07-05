@@ -110,6 +110,8 @@ padding-bottom: 2%;
    
 }
 .background{
+    padding-top: 5px;
+    height: 200px;
     background-color: #070617;
     text-align: center;
 }
